@@ -7,10 +7,10 @@ Description:A program to grade your project has the same output as the starting 
 import os.path
 
 # Enter the baseline FileName to be compared against:
-FILE_1 = "proj5_test4_output.txt"
+FILE_1 = ""
 
 # Enter the FileName you want to be compared to FILE_1:
-FILE_2 = "no"
+FILE_2 = ""
 
 """ 
 Function Name: menu 
