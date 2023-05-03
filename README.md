@@ -5,9 +5,9 @@ A tool to validate your CMSC Project 5
 
 1) Put in the directory of your project.
 
-** Optional: You can load two files automatically by changing the variable "FILE_1" and "FILE_2" **
+` Optional: You can load two files automatically by changing the variable "FILE_1" and "FILE_2" `
 
-2) Run the App.
+2) Run the Program.
 
 ## More Details/ IDK
 
