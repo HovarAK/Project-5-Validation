@@ -1,5 +1,5 @@
 """
-Author:     Malcolm Dickens
+Author:     -_-
 File:       proj5_validation.py
 Date:       5/3/2023
 Description:A program to grade your project has the same output as the starting file.
@@ -21,7 +21,7 @@ def menu():
     print("Welcome to the Project 5 Validation Program!!")
 
 """ 
-Function Name:  
+Function Name:  validate_file
 Pre-Condition:  The function is passed a string.
 Post-Condition: Return true if a file exist in the directory
 """
@@ -30,7 +30,7 @@ def validate_file(path = ""):
 
     
 """ 
-Function Name:  
+Function Name:  compare_files
 Pre-Condition:  The function is passed a string.
 Post-Condition: Return true if a file exist in the directory
 """
